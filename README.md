@@ -1,6 +1,9 @@
 # 💫 About Me:
 🌱 I’m currently learning Clean Architecture, dotnet 8, and Angular 17<br>💬 Ask me about Angular and dotnet Core<br>📫 How to reach me milmiledh@gmail.com
 
+---
+[![](https://visitcount.itsvg.in/api?id=devendramilmile121&icon=5&color=4)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_milmile) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devendramilmile) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dev_milmile) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dev_milmile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_milmile) 
@@ -23,8 +26,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=devendramilmile121&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
